@@ -1,0 +1,4 @@
+admin = 5361352348
+logchat = -1001528587582
+globallog = -1001528587582
+TOKEN = '5562424125:AAFxbOlmDWqrc2R7tqzKghHw9_1yluSH8dg'
